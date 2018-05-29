@@ -1,1 +1,6 @@
 This is my new text file
+
+changes done 
+
+ many times
+.Hello
